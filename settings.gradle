@@ -1,0 +1,2 @@
+rootProject.name='Socket-io-test'
+include ':app'
